@@ -206,6 +206,7 @@ Deberian apreciar 4 carpetas de ejemplo como mostrare a continuación:
 - Me refiero lo que esta dentro de la carpeta `PlantLady`, que tendra el mismo nombre de su proyecto
   ![screen2](https://cdn.discordapp.com/attachments/894620271275827302/1070728032538591323/image.png)
 - El lado bueno, es que las unicas carpetas que se modificaran seran como el [proyecto anterior](https://github.com/captainsparrow10/XAMARIN_A_MAUI_NON_SHELL/tree/main), denle un vistazo para que entiendan mejor de lo que hablo.
+- Yo borre la `UWP` por los conflictos que genera en el proyecto
 - Aqui nos enfocaremos en la main `PlantLady`, `PlantLady.Android` y `PlantLady.iOS`.
 
 ## Paso 3: Actualización de los archivos csproj
